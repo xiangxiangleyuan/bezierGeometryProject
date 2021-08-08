@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\AndroidProject\\MyApplication\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\AndroidProject\\MyApplication\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target native-lib",
+      "abi": "x86",
+      "output": "D:\\AndroidProject\\MyApplication\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

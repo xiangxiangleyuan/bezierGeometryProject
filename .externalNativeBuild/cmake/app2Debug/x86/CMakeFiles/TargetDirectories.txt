@@ -1,0 +1,3 @@
+D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Debug/x86/CMakeFiles/native-lib.dir
+D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Debug/x86/CMakeFiles/edit_cache.dir
+D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Debug/x86/CMakeFiles/rebuild_cache.dir

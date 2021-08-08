@@ -1,0 +1,116 @@
+{
+  "stringTable": {
+    "0": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app1Debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\AndroidProject\\MyApplication\\app\\.externalNativeBuild\\cmake\\app1Debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommand": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\AndroidProject\\MyApplication\\app\\.externalNativeBuild\\cmake\\app1Debug\\x86\" --target native-lib",
+      "buildType": "debug",
+      "toolchain": "227411166",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\scene.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierBspline.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeom.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeomSupple.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ShaderUtil.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephant.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEar.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierAnimationByAngle.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEye.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantExercise.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\GameWorld.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ControlPanel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\SeaGrass.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BalloonFish.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\AndroidProject\\MyApplication\\app\\build\\intermediates\\cmake\\app1\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "227411166": {
+      "cppCompilerExecutable": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

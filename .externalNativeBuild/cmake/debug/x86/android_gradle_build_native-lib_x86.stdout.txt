@@ -1,0 +1,4 @@
+[1/4] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/4] Building CXX object CMakeFiles/native-lib.dir/scene.cpp.o
+[3/4] Building CXX object CMakeFiles/native-lib.dir/SeaGrass.cpp.o
+[4/4] Linking CXX shared library D:\AndroidProject\MyApplication\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so

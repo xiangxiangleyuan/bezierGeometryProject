@@ -1,0 +1,26 @@
+312 307
+220 191
+1040 1037
+812  1070
+316 595
+228 491
+600 400
+603 804
+576 542
+940 389
+463 337
+
+
+
+
+
+
+
+
+
+
+
+
+
+std::this_thread::sleep_for(std::chrono::milliseconds(10));
+//    glm::mat4 normalMatrix=glm::inverse((modelMatrix));

@@ -1,0 +1,22 @@
+[1/18] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/18] Building CXX object CMakeFiles/native-lib.dir/WizardGeom.cpp.o
+[3/18] Building CXX object CMakeFiles/native-lib.dir/WizardGeomSupple.cpp.o
+[4/18] Building CXX object CMakeFiles/native-lib.dir/FlyElephant.cpp.o
+[5/18] Building CXX object CMakeFiles/native-lib.dir/scene.cpp.o
+[6/18] Building CXX object CMakeFiles/native-lib.dir/BezierBspline.cpp.o
+[7/18] Building CXX object CMakeFiles/native-lib.dir/utils.cpp.o
+[8/18] Building CXX object CMakeFiles/native-lib.dir/FlyElephantExercise.cpp.o
+[9/18] Building CXX object CMakeFiles/native-lib.dir/ShaderUtil.cpp.o
+[10/18] Building CXX object CMakeFiles/native-lib.dir/BezierAnimationByAngle.cpp.o
+[11/18] Building CXX object CMakeFiles/native-lib.dir/GameWorld.cpp.o
+[12/18] Building CXX object CMakeFiles/native-lib.dir/FlyElephantEar.cpp.o
+[13/18] Building CXX object CMakeFiles/native-lib.dir/FlyElephantEye.cpp.o
+[14/18] Building CXX object CMakeFiles/native-lib.dir/SeaGrass.cpp.o
+[15/18] Building CXX object CMakeFiles/native-lib.dir/ControlPanel.cpp.o
+[16/18] Building CXX object CMakeFiles/native-lib.dir/BalloonFish.cpp.o
+[17/18] Building CXX object CMakeFiles/native-lib.dir/BalloonFlyFishCollisionDetection.cpp.o
+D:/AndroidProject/MyApplication/app/src/main/cpp/BalloonFlyFishCollisionDetection.cpp:502:12: warning: address of stack memory associated with local variable 'drawPoint' returned [-Wreturn-stack-address]
+    return drawPoint;
+           ^~~~~~~~~
+1 warning generated.
+[18/18] Linking CXX shared library D:\AndroidProject\MyApplication\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-lib.so

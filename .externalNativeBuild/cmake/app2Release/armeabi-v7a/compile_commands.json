@@ -1,0 +1,97 @@
+[
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\scene.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\scene.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\scene.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\BezierBspline.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierBspline.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierBspline.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\WizardGeom.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeom.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeom.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\WizardGeomSupple.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeomSupple.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\WizardGeomSupple.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\ShaderUtil.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ShaderUtil.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ShaderUtil.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\utils.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\utils.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\utils.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\FlyElephant.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephant.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephant.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\FlyElephantEar.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEar.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEar.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\BezierAnimationByAngle.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierAnimationByAngle.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BezierAnimationByAngle.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\FlyElephantEye.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEye.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantEye.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\FlyElephantExercise.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantExercise.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\FlyElephantExercise.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\GameWorld.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\GameWorld.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\GameWorld.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\ControlPanel.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ControlPanel.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\ControlPanel.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\SeaGrass.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\SeaGrass.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\SeaGrass.cpp"
+},
+
+{
+  "directory": "D:/AndroidProject/MyApplication/app/.externalNativeBuild/cmake/app2Release/armeabi-v7a",
+  "command": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\BalloonFish.cpp.o -c D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BalloonFish.cpp",
+  "file": "D:\\AndroidProject\\MyApplication\\app\\src\\main\\cpp\\BalloonFish.cpp"
+}
+]
